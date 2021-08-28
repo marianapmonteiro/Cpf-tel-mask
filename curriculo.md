@@ -11,6 +11,7 @@ Estudante de Engenharia de Software na Unicesumar (EAD) e também cursando Letra
 * Vue.js
 * Metodologias ágeis (SCRUM)
 * Estrutura MVC 
+* Versionamento GIT
 
 ## Idiomas
 Inglês (avançado)
